@@ -1,4 +1,6 @@
-### Threaded graphite sink for converting and forwarding graphite/carbon metrics to Datadog.  This configures a single endpoint and is suitable for collecting < 1000 metrics / sec.  For collecting > 1000 metrics / sec see the multi-worker sink here: https://github.com/burnsie7/graphite-collector
+### Threaded graphite sink for converting and forwarding graphite / carbon metrics to Datadog.
+
+This configures a single endpoint and is suitable for collecting < 1000 metrics / sec.  For collecting > 1000 metrics / sec see the multi-worker sink here: https://github.com/DataDog/graphite-sink-multi-worker 
 
 ### Step 0 - Datadog Agent
 
