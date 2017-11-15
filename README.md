@@ -11,7 +11,7 @@ For information on installing the client see here:  https://docs.datadoghq.com/g
 ### Step 1 - Graphite sink(s)
 
 ```
-git clone https://github.com/burnsie7/graphite-sink.git
+git clone https://github.com/DataDog/graphite-sink
 cd graphite-sink
 sudo apt-get update
 sudo apt-get install supervisor
